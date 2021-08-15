@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to blog one"
 name: "Spacehack"
 Age: 99
 Job: homless
